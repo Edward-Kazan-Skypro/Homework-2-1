@@ -80,7 +80,5 @@ public class Main {
         System.out.println("Если в компании работает " + newSumEmployees +  " человек, то всего "
           + newSumEmployees * workEmployeeInDay + " часов работы может быть поделено между сотрудниками");
 
-
-        System.out.println();
     }
 }
